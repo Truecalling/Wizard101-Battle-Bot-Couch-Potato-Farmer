@@ -1,0 +1,13 @@
+Hey guys,
+
+I've decided to release my battle bot made in autoit. It was designed for couch potato farming in grizzleheim and was designed to grow to a larger project but I have lost interest in the game.
+
+What it does:
+
+- Enchants school spells then attacks.
+- Detects needing to pass incase mob joins late and not enough pips.
+- Detects out of battle and spams movement so you can join battles sooner.
+- Has a counter to keep track of your current mana, then uses potions when it should be empty (can sometimes mess up)
+- Compatible for every enchantment. Also compatible for all schools but death, as long as you are using AOE's.
+
+No known bans related to autoit programs/scripts but as always use at your own caution.
