@@ -8,13 +8,14 @@ Instructions:
 - Make sure Bloom is on. Bot tends to work better with bloom on.
 - Fill deck with only mass AOE and enchants, get rid of all wands cards and other spells.
 - Stand near or in battle, then run the program, select your school and fill in asked data. I usually subtract 50 mana from the asked mana total just incase the bot messes up counters.
-- Profit from couch potato seeds 
+- Profit from couch potato seeds .
+- UI size must be Normal.
 
 Note:Autoit can fuckup if Wizard101 client is ran as admin. Make sure its under regular perms.
 
 Made by St. Jimmy released in 11a's discord on 10/23/2019 for FREE. 
 
-If you would like to use the base into your own project, dm me. I won't be releasing the source due to worry about someone selling this as their own.
+EDIT 5/14/2020 : Just noticed I released the source, so took away the part that said I wasn't going to :)
 
 St. Jimmy#9415
 
